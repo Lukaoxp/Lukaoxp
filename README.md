@@ -33,7 +33,24 @@
 <img src="https://github-readme-stats.vercel.app/api?username=lukaoxp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
 </div>
 
+  <details>
 
+  <summary>
+    <h2>📃 Meu Currículo</h2>
+  </summary>
+    
+## Experiência profissional
+  👨‍💻  Desenvolvedor back-end\
+  📆  2021 - 2022\
+  📍 HAVAN S.A.🗽
+  
+## Educação
+  📖Bacharelado em Design de Jogos e Entretenimento Digital\
+  📆2012 - 2015\
+  📍Univali - Campus Balneario Camboriú
+</details>  
+
+  
   
 <!--
 #### Contatos:
