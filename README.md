@@ -2,21 +2,30 @@
 <p align='center'>Desenvolvedor Back-end</p>
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/lucas-carturani/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/lucas-carturani/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/lucascarturani" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:lucascarturani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:lucascarturani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </a>
 </p>
 
-- 🌱 Estudando:
-
+<h2>
+- 🔭 Experiência com:
+</h2>
 <div>
-<img align="center" alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img src = "https://skillicons.dev/icons?i=cs,dotnet,postgresql,azure,visualstudio&perline=10")>
 </div>
-<br>
 
+<h2>
+- 🌱 Estudando:
+</h2>
+<div>
+<!--img align="center" alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"-->
+  <img src = "https://skillicons.dev/icons?i=cs,dotnet,visualstudio,angular,php&perline=5")>
+</div>
+  
+##
 
-<div align='center'>
+<div align = 'center'>
 <a href="https://github.com/lukaoxp">
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaoxp&layout=compact&langs_count=7&theme=dracula"/> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaoxp&hide=TeX&layout=compact" width="350">
