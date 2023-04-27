@@ -40,14 +40,25 @@
   </summary>
     
 ## Experiência profissional
-  👨‍💻  Desenvolvedor back-end\
+  🧑‍💻  Desenvolvedor back-end\
   📆  2021 - 2022\
   📍 HAVAN S.A.🗽
+    
+    
+  🧑‍💻  Analista de suporte\
+  📆  2019 - 2021\
+  📍 ADSOMOS Softwares
+    
   
 ## Educação
   📖Bacharelado em Design de Jogos e Entretenimento Digital\
   📆2012 - 2015\
   📍Univali - Campus Balneario Camboriú
+
+  📖Técnico em Informática\
+  📆2011 - 2013\
+  📍SENAIsc - Unidade Brusque
+    
 </details>  
 
   
