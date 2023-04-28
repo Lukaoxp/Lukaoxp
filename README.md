@@ -1,5 +1,5 @@
-<h1 align='center' >Olá! 👋 Sou Lucas Carturani</h1>
-<p align='center'>Desenvolvedor Back-end</p>
+<h1 align='center'>Hello! 👋 I'm Lucas Carturani</h1>
+<p align='center'>Back-end Developer</p>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/lucas-carturani/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -8,14 +8,14 @@
 </p>
 
 <h2>
-- 🔭 Experiência com:
+- 🔭 Experienced with:
 </h2>
 <div>
   <img src = "https://skillicons.dev/icons?i=cs,dotnet,postgresql,visualstudio,git&perline=10")>
 </div>
 
 <h2>
-- 🌱 Estudando:
+- 🌱 Studying:
 </h2>
 <div>
 <!--img align="center" alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"-->
@@ -23,7 +23,7 @@
 </div>
   
 ##
-<p>Meu perfil na plataforma DIO:</p>
+<p>My DIO profile:</p>
 <a href = "https://web.dio.me/users/lucascarturani"><img height='80' width = '80' src="https://user-images.githubusercontent.com/92643412/235182835-b2227098-d1ec-45a8-8c85-7000dd76ca46.png" target="_blank"></a>
 
 <div align = 'center'>
@@ -35,26 +35,26 @@
   <details>
 
   <summary>
-    <h2>📃 Meu Currículo</h2>
+    <h2>📃 My C.V.</h2>
   </summary>
     
-## Experiência profissional
-  🧑‍💻  Desenvolvedor back-end\
+## Work Experience
+  🧑‍💻  Back-end developer\
   📆  2021 - 2022\
   📍 HAVAN S.A.🗽
     
     
-  🧑‍💻  Analista de suporte\
+  🧑‍💻  Support Analyst\
   📆  2019 - 2021\
   📍 ADSOMOS Softwares
     
   
-## Educação
-  📖Bacharelado em Design de Jogos e Entretenimento Digital\
+## Education
+  📖Bachelor's degree in Game Design and Digital Enternainment\
   📆2012 - 2015\
   📍Univali - Campus Balneario Camboriú
 
-  📖Técnico em Informática\
+  📖IT Technitian\
   📆2011 - 2013\
   📍SENAIsc - Unidade Brusque
     
