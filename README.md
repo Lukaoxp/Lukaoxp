@@ -7,24 +7,22 @@
   <a href = "mailto:lucascarturani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
-<h2>
-- 🔭 Experienced with:
-</h2>
+## - 🔭 Experienced with:
 <div>
   <img src = "https://skillicons.dev/icons?i=cs,dotnet,postgresql,visualstudio,git&perline=10")>
 </div>
 
-<h2>
-- 🌱 Studying:
-</h2>
+
+## - 🌱 Studying:
 <div>
 <!--img align="center" alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"-->
   <img src = "https://skillicons.dev/icons?i=cs,dotnet,visualstudio,angular,php&perline=5")>
 </div>
-  
-##
-<p>My DIO profile:</p>
+
+## - 🧑‍💻 My DIO profile:
 <a href = "https://web.dio.me/users/lucascarturani"><img height='80' width = '80' src="https://user-images.githubusercontent.com/92643412/235182835-b2227098-d1ec-45a8-8c85-7000dd76ca46.png" target="_blank"></a>
+
+##
 
 <div align = 'center'>
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaoxp&layout=compact&langs_count=7&theme=dracula"/> -->
@@ -32,23 +30,20 @@
 <a href="https://github.com/lukaoxp"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaoxp&theme=dracula&hide=TeX&layout=compact&hide_border=true"></a>
 </div>
 
-  <details>
-
+<details>
   <summary>
     <h2>📃 My C.V.</h2>
   </summary>
-    
+  
 ## Work Experience
   🧑‍💻  Back-end developer\
   📆  2021 - 2022\
   📍 HAVAN S.A.🗽
-    
-    
+
   🧑‍💻  Support Analyst\
   📆  2019 - 2021\
   📍 ADSOMOS Softwares
-    
-  
+
 ## Education
   📖Bachelor's degree in Game Design and Digital Enternainment\
   📆2012 - 2015\
@@ -57,7 +52,6 @@
   📖IT Technitian\
   📆2011 - 2013\
   📍SENAIsc - Unidade Brusque
-    
 </details>  
 
   
