@@ -28,7 +28,7 @@
 
 <div align = 'center'>
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaoxp&layout=compact&langs_count=7&theme=dracula"/> -->
-<a href="https://github.com/lukaoxp"><img src="https://github-readme-stats.vercel.app/api?username=lukaoxp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"></a>
+<a href="https://github.com/lukaoxp"><img src="https://github-readme-stats.vercel.app/api?username=lukaoxp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true"></a>
 <a href="https://github.com/lukaoxp"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaoxp&theme=dracula&hide=TeX&layout=compact&hide_border=true"></a>
 </div>
 
