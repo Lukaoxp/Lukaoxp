@@ -12,7 +12,7 @@
 - 🔭 Experiência com:
 </h2>
 <div>
-  <img src = "https://skillicons.dev/icons?i=cs,dotnet,postgresql,azure,visualstudio&perline=10")>
+  <img src = "https://skillicons.dev/icons?i=cs,dotnet,postgresql,visualstudio&perline=10")>
 </div>
 
 <h2>
