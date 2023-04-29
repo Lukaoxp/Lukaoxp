@@ -16,7 +16,7 @@
 ## - 🌱 Studying:
 <div>
 <!--img align="center" alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"-->
-  <img src = "https://skillicons.dev/icons?i=cs,dotnet,visualstudio,angular,nodejs,php&perline=10")>
+  <img src = "https://skillicons.dev/icons?i=cs,dotnet,visualstudio,angular,nodejs,js,php&perline=10")>
 </div>
 
 ## - 🧑‍💻 My DIO profile:
