@@ -9,14 +9,14 @@
 
 ## - 🔭 Experienced with:
 <div>
-  <img src = "https://skillicons.dev/icons?i=cs,dotnet,postgresql,visualstudio,git&perline=10")>
+  <img src = "https://skillicons.dev/icons?i=cs,dotnet,postgresql,visualstudio,vscode,git&perline=10")>
 </div>
 
 
 ## - 🌱 Studying:
 <div>
 <!--img align="center" alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"-->
-  <img src = "https://skillicons.dev/icons?i=cs,dotnet,visualstudio,angular,nodejs,js,html&perline=10")>
+  <img src = "https://skillicons.dev/icons?i=cs,dotnet,angular,nodejs,js,html&perline=10")>
 </div>
 
 ## - 🧑‍💻 My DIO profile:
