@@ -36,6 +36,10 @@
   </summary>
   
 ## Work Experience
+  🧑‍💻  Power BI Analyst\
+  📆  2023 - Present\
+  📍 YEESCO
+
   🧑‍💻  Back-end developer\
   📆  2021 - 2022\
   📍 HAVAN S.A.🗽
