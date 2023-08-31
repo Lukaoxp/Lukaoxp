@@ -9,7 +9,7 @@
 
 ## - 🔭 Experienced with:
 <div>
-  <img src = "https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git&perline=10")>
+  <img src = "https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,postgres,mysql&perline=10")>
 </div>
 
 
