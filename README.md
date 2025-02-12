@@ -15,7 +15,8 @@
 ## 🚀 Improving:
 <div>
 <!--img align="center" alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"-->
-  <img src = "https://skillicons.dev/icons?i=cs,dotnet,typescript,react,maui&perline=10")>
+  <!--img src = "https://skillicons.dev/icons?i=cs,dotnet,typescript,react,maui&perline=10") -->
+  <img src = "https://skillicons.dev/icons?i=cs,dotnet&perline=10")>
 </div>
 
 <!--
