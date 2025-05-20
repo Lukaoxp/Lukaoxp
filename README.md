@@ -47,10 +47,6 @@
   🧑‍💻  FullStack Developer\
   📆  2023 - Present\
   📍 OKEA
-  
-  🧑‍💻  Power BI Analyst\
-  📆  2023 - 2023\
-  📍 YEESCO
 
   🧑‍💻  Back-end developer\
   📆  2021 - 2022\
