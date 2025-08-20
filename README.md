@@ -27,17 +27,27 @@
   <!--img src = "https://skillicons.dev/icons?i=typescript,react&perline=10")-->
 </div>
 
+<!--
 ## - 🧑‍💻 My DIO profile:
 <a href = "https://web.dio.me/users/lucascarturani"><img height='80' width = '80' src="https://user-images.githubusercontent.com/92643412/235182835-b2227098-d1ec-45a8-8c85-7000dd76ca46.png" target="_blank"></a>
 
 ##
+-->
 
-<div align = 'center'>
+
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaoxp&layout=compact&langs_count=7&theme=dracula"/> -->
-<a href="https://github.com/lukaoxp"><img src="https://github-readme-stats.vercel.app/api?username=lukaoxp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true"></a>
-<a href="https://github.com/lukaoxp"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaoxp&theme=dracula&hide=TeX&layout=compact&hide_border=true"></a>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=lukaoxp&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> -->
+<!-- <a href="https://github.com/lukaoxp"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaoxp&theme=dracula&hide=TeX&layout=compact&hide_border=true"></a> 
+<a href="https://github.com/lukaoxp"><img src="https://github-readme-stats.vercel.app/api?username=lukaoxp&show_icons=true&theme=dracula&count_private=true&rank_icon=github&hide_border=true"></a>
+</br>
+-->
+## Stats
+<div align = 'center'>
+
+ <a href="https://github.com/lukaoxp"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lukaoxp&theme=dark&hide_border=true" /></a>
 </div>
 
+<!--
 <details>
   <summary>
     <h2>📃 My C.V.</h2>
@@ -66,7 +76,7 @@
   📍SENAIsc - Unidade Brusque
 </details>  
 
-  
+-->  
   
 <!--
 #### Contatos:
