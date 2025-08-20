@@ -7,9 +7,9 @@
  <!-- <a href = "mailto:lucascarturani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
 </p>
 
-## - 🔭 Experienced with:
+## 🔭 Experienced with:
 <div>
-  <img src = "https://skillicons.dev/icons?i=cs,dotnet,typescript,react,nextjs,visualstudio,vscode,git,postgres,mysql&perline=10")>
+  <img src = "https://skillicons.dev/icons?i=cs,dotnet,typescript,react,nextjs,visualstudio,vscode,git,postgres&perline=10")>
 </div>
 
 ## 🚀 Improving:
@@ -19,12 +19,13 @@
   <img src = "https://skillicons.dev/icons?i=cs,dotnet&perline=10")>
 </div>
 
-<!--
-## - 🌱 Studying:
--->
-<div>
+
+<!-- ## - 🌱 Studying: -->
 <!--img align="center" alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"-->
-  <!--img src = "https://skillicons.dev/icons?i=typescript,react&perline=10")-->
+
+## 🧪 Messing around with:
+<div>
+  <img src = "https://skillicons.dev/icons?i=go&perline=10")/>
 </div>
 
 <!--
