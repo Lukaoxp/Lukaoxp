@@ -42,12 +42,14 @@
 <a href="https://github.com/lukaoxp"><img src="https://github-readme-stats.vercel.app/api?username=lukaoxp&show_icons=true&theme=dracula&count_private=true&rank_icon=github&hide_border=true"></a>
 </br>
 -->
+
+<!--
 ## Stats
 <div align = 'center'>
 
  <a href="https://github.com/lukaoxp"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lukaoxp&theme=dark&hide_border=true" /></a>
 </div>
-
+-->
 <!--
 <details>
   <summary>
