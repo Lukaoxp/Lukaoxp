@@ -1,5 +1,10 @@
-<h1 align='center'>Hello! 👋 I'm Lucas Carturani</h1>
-<p align='center'>Fullstack Developer</p>
+<h1 align='center'>Lucas Carturani (Lukao)</h1>
+<p align='center'>
+  Fullstack & Mobile Developer<br/>
+  .NET • React/Next.js • .NET MAUI
+</p>
+  
+</p>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/lucas-carturani/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -19,11 +24,10 @@
   <img src = "https://skillicons.dev/icons?i=cs,dotnet&perline=10")>
 </div>
 
-
-<!-- ## - 🌱 Studying: -->
+## - 🌱 Studying:
 <!--img align="center" alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"-->
 
-## 🧪 Messing around with:
+<!-- ## 🧪 Messing around with: -->
 <div>
   <img src = "https://skillicons.dev/icons?i=go&perline=10")/>
 </div>
