@@ -1,110 +1,69 @@
-<h1 align='center'>Lucas Carturani (Lukao)</h1>
-<p align='center'>
-  Fullstack & Mobile Developer<br/>
-  .NET • React/Next.js • .NET MAUI
-</p>
-  
-</p>
+<h1 align="center">Lucas Carturani</h1>
 
-<p align='center'>
-  <a href="https://www.linkedin.com/in/lucas-carturani/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/lucascarturani" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <!-- <a href = "mailto:lucascarturani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
+<p align="center">
+  Fullstack Engineer with strong backend focus<br/>
+  <sub>.NET &nbsp;·&nbsp; Go &nbsp;·&nbsp; React/Next.js &nbsp;·&nbsp; Open to remote &nbsp;·&nbsp; English C2</sub>
 </p>
 
-## 🔭 Experienced with:
-<div>
-  <img src = "https://skillicons.dev/icons?i=cs,dotnet,typescript,react,nextjs,visualstudio,vscode,git,postgres&perline=10")>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-carturani/">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-## 🚀 Improving:
-<div>
-<!--img align="center" alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"-->
-  <!--img src = "https://skillicons.dev/icons?i=cs,dotnet,typescript,react,maui&perline=10") -->
-  <img src = "https://skillicons.dev/icons?i=cs,dotnet&perline=10")>
-</div>
+---
 
-## - 🌱 Studying:
-<!--img align="center" alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"-->
+## About me
 
-<!-- ## 🧪 Messing around with: -->
-<div>
-  <img src = "https://skillicons.dev/icons?i=go&perline=10")/>
-</div>
+I'm a Brazilian software engineer with 5+ years of experience working on real production systems.
 
-<!--
-## - 🧑‍💻 My DIO profile:
-<a href = "https://web.dio.me/users/lucascarturani"><img height='80' width = '80' src="https://user-images.githubusercontent.com/92643412/235182835-b2227098-d1ec-45a8-8c85-7000dd76ca46.png" target="_blank"></a>
+My background spans backend, frontend, and mobile — with a consistent focus on reliability, operational correctness, and the kind of work that holds up outside a demo environment. Currently going deeper into Go and backend engineering through public projects, while keeping my day-to-day in **.NET** and **React**.
 
-##
--->
+---
 
+## What I'm building
 
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaoxp&layout=compact&langs_count=7&theme=dracula"/> -->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=lukaoxp&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> -->
-<!-- <a href="https://github.com/lukaoxp"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaoxp&theme=dracula&hide=TeX&layout=compact&hide_border=true"></a> 
-<a href="https://github.com/lukaoxp"><img src="https://github-readme-stats.vercel.app/api?username=lukaoxp&show_icons=true&theme=dracula&count_private=true&rank_icon=github&hide_border=true"></a>
-</br>
--->
+**[smart-finance-api](https://github.com/lukaoxp/smart-finance-api)** &nbsp;`Go`
 
-<!--
-## Stats
-<div align = 'center'>
+A production-grade personal finance API, designed to be built deliberately in public. JWT from scratch (no third-party libs), PostgreSQL with versioned migrations, Redis for rate limiting and AI response caching, Prometheus + Grafana observability, circuit breaker around Gemini AI insights, Docker multi-stage build, GitHub Actions → Google Cloud Run.
 
- <a href="https://github.com/lukaoxp"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lukaoxp&theme=dark&hide_border=true" /></a>
-</div>
--->
-<!--
-<details>
-  <summary>
-    <h2>📃 My C.V.</h2>
-  </summary>
-  
-## Work Experience
-  🧑‍💻  FullStack Developer\
-  📆  2023 - Present\
-  📍 OKEA
+**[status-monitor](https://github.com/lukaoxp/status-monitor)** &nbsp;`Go`
 
-  🧑‍💻  Back-end developer\
-  📆  2021 - 2022\
-  📍 HAVAN S.A.🗽
+A backend monitoring tool focused on reliability and observability — graceful shutdown, Prometheus metrics, and a Docker-based workflow.
 
-  🧑‍💻  Support Analyst\
-  📆  2019 - 2021\
-  📍 ADSOMOS Softwares
+---
 
-## Education
-  📖Bachelor's degree in Game Design and Digital Enternainment\
-  📆2012 - 2015\
-  📍Univali - Campus Balneario Camboriú
+## Background
 
-  📖IT Technitian\
-  📆2011 - 2013\
-  📍SENAIsc - Unidade Brusque
-</details>  
+**Ókea** &nbsp;·&nbsp; Fullstack Developer &nbsp;·&nbsp; 2023–present
 
--->  
-  
-<!--
-#### Contatos:
-<a href="https://instagram.com/lucascarturani" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:lucascarturani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/lucas-carturani/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
--->
-  
-  
-  
-<!--
-**Lukaoxp/Lukaoxp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+.NET 8 REST API (Clean Architecture + CQRS) for industrial asset management. 8+ full CRUD screens in Next.js/React. .NET MAUI Android app from scratch.
 
-Here are some ideas to get you started:
+**Havan S.A.** &nbsp;·&nbsp; Backend Developer &nbsp;·&nbsp; 2021–2022
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Data sync integrity across PostgreSQL → SQL Server for 2,000+ POS terminals across 168 megastores. Inherited ~200 unresolved production incidents and drove the backlog to near zero.
+
+---
+
+## Tech
+
+**Backend:** C#, .NET, Go  
+**Frontend:** TypeScript, React, Next.js  
+**Database:** PostgreSQL, SQL Server  
+**Tools:** Docker, GitHub Actions, Git
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,go,typescript,react,nextjs,postgres,docker,githubactions,git&perline=10" />
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lukaoxp&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaoxp&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+---
+
+> Real systems. Building for global.
