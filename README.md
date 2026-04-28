@@ -56,9 +56,9 @@ Data sync integrity across PostgreSQL → SQL Server for 2,000+ POS terminals ac
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lukaoxp&theme=dark&hide_border=true" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaoxp&layout=compact&theme=dark&hide_border=true" />
