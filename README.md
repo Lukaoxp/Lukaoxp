@@ -23,6 +23,10 @@ My background spans backend, frontend, and mobile — with a consistent focus on
 
 ## What I'm building
 
+**[dotnet-ecommerce-api](https://github.com/lukaoxp/dotnet-ecommerce-api)** &nbsp;`C#`
+
+A production-grade multi-tenant e-commerce API in .NET 10. Clean Architecture + DDD, CQRS manual, JWT with refresh token rotation, Outbox Pattern, EF Core + PostgreSQL, Redis, Polly, OpenTelemetry + Prometheus + Grafana, Testcontainers, Docker + nginx + GitHub Actions.
+
 **[smart-finance-api](https://github.com/lukaoxp/smart-finance-api)** &nbsp;`Go`
 
 A production-grade personal finance API, designed to be built deliberately in public. JWT from scratch (no third-party libs), PostgreSQL with versioned migrations, Redis for rate limiting and AI response caching, Prometheus + Grafana observability, circuit breaker around Gemini AI insights, Docker multi-stage build, GitHub Actions → Google Cloud Run.
