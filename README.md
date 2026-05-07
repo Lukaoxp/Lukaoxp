@@ -58,15 +58,11 @@ Data sync integrity across PostgreSQL → SQL Server for 2,000+ POS terminals ac
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,go,typescript,react,nextjs,postgres,docker,githubactions,git&perline=10" />
 
----
-
-<!-- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lukaoxp&theme=dark&hide_border=true" />
-</p> -->
+<!-- ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaoxp&layout=compact&theme=dark&hide_border=true" />
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lukaoxp&theme=dark&hide_border=true" />
+</p> -->
 
 ---
 
