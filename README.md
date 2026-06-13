@@ -51,14 +51,23 @@ Data sync integrity across PostgreSQL → SQL Server for 2,000+ POS terminals ac
 
 ## Tech
 
+**Backend:** C#, .NET 
+**Frontend:** TypeScript, React, Next.js  
+**Database:** PostgreSQL, SQL Server  
+**Tools:** GitHub Actions, Git
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,typescript,react,nextjs,postgres,githubactions,git&perline=10" />
+
+<!-- ---
+
+## Tech
+
 **Backend:** C#, .NET, Go  
 **Frontend:** TypeScript, React, Next.js  
 **Database:** PostgreSQL, SQL Server  
 **Tools:** Docker, GitHub Actions, Git
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,go,typescript,react,nextjs,postgres,docker,githubactions,git&perline=10" />
-
-<!-- ---
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lukaoxp&theme=dark&hide_border=true" />
