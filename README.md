@@ -59,7 +59,7 @@ Data sync integrity across PostgreSQL → SQL Server for 2,000+ POS terminals ac
 **Database:** PostgreSQL, SQL Server  
 **Tools:** GitHub Actions, Git
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,typescript,react,nextjs,postgres,githubactions,git&perline=10" />
+<img src="https://skillicons.dev/icons?i=java,cs,dotnet,typescript,react,nextjs,postgres,githubactions,git&perline=10" />
 
 <!-- ---
 
