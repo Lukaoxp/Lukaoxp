@@ -18,7 +18,7 @@
 I'm a Brazilian software engineer with 5+ years of experience working on real production systems.
 
 My background spans backend, frontend, and mobile — with a consistent focus on reliability, operational correctness, and the kind of work that holds up outside a demo environment. Currently going deeper into Go and backend engineering through public projects, while keeping my day-to-day in **.NET** and **React**.
-
+<!--
 ---
 
 ## What I'm building
@@ -35,13 +35,16 @@ A production-grade personal finance API, designed to be built deliberately in pu
 
 A backend monitoring tool focused on reliability and observability — graceful shutdown, Prometheus metrics, and a Docker-based workflow.
 
----
+--->
 
 ## Background
+**Asaas S.A.** &nbsp;·&nbsp; Fullstack Developer &nbsp;·&nbsp; 2026 - present
 
-**Ókea** &nbsp;·&nbsp; Fullstack Developer &nbsp;·&nbsp; 2023–present
+Groovy Fullstack development.
 
-.NET 8 REST API (Clean Architecture + CQRS) for industrial asset management. 8+ full CRUD screens in Next.js/React. .NET MAUI Android app from scratch.
+**Ókea** &nbsp;·&nbsp; Fullstack Developer &nbsp;·&nbsp; 2023–2026
+
+.NET 8 REST API (Clean Architecture + CQRS) for industrial asset management. Full CRUD pages in Next.js/React. .NET MAUI Android app from scratch.
 
 **Havan S.A.** &nbsp;·&nbsp; Backend Developer &nbsp;·&nbsp; 2021–2022
 
