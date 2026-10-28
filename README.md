@@ -2,7 +2,7 @@
 
 <p align="center">
   Fullstack Engineer with strong backend focus<br/>
-  <sub>.NET &nbsp;·&nbsp; Go &nbsp;·&nbsp; React/Next.js &nbsp;·&nbsp; Open to remote &nbsp;·&nbsp; English C2</sub>
+  <sub> Grails &nbsp;·&nbsp; .NET &nbsp;·&nbsp; React/Next.js &nbsp;·&nbsp; Open to remote &nbsp;·&nbsp; English C2</sub>
 </p>
 
 <p align="center">
